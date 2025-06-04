@@ -74,6 +74,6 @@ APK dosyasını [GitHub Releases](https://github.com/eyupduran/memoro/releases/t
 
 ## 🔜 Gelecek Özellikler
 
-- Farklı dil seçenekleri (Portekizce, İspanyolca vb.)
+- İngilizce yerine farklı dil öğrenme seçenekleri (Portekizce, İspanyolca vb.)
 - Kelime öğrenme oyunları
 
